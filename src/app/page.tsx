@@ -1,9 +1,9 @@
-import ImageLayers from '../components/ImageLayers'
+import Scene from '../components/Scene'
 
 export default function Home() {
   return (
     <main>
-      <ImageLayers />
+      <Scene />
     </main>
   )
 }
